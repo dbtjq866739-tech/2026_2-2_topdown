@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 public class TopDownPlayer : MonoBehaviour
 {
-    public float moveSpeed = 4f;
+    public float moveSpeed = 8f;
     public float frameTime = 0.15f;
     public Sprite[] downSprites;
     public Sprite[] upSprites;
